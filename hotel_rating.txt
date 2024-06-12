@@ -1,0 +1,293 @@
+Hotel_User_Id,Hotel_Id,Hotel_User_Rating,Hotel_User_Review_Date,Hotel_User_Review
+14760,6024,9,11/03/2024,"Khách sạn sạch, yên tĩnh, đầy đủ tiện nghi và thích nhất là nhân viên rất thân thiện, nhiệt tình nhất là 2 bạn lễ Tân."
+14760,8101,8,24/04/2024,Hài lòng
+14760,6069,8,20/01/2024,Khá hài lòng
+14020,8897,8,06/02/2024,Tốt
+14020,6311,7,01/02/2024,Good
+14020,7640,7,16/04/2024,
+14630,7503,8,01/01/2024,"Nhân viên vui vẻ, thân thiện"
+14630,8169,8,26/09/2023,Trải nghiệm tốt
+14630,6997,8,17/12/2023,Nice
+14751,6311,9,17/12/2023,
+14751,7640,8,,Tốt
+14751,6377,7,,
+14579,7355,9,26/11/2023,Bạn Trang nhân viên lễ tân rất nhiệt tình và hoà đồng. Sẵn sàng hỗ trợ khách hàng khi cần.
+14579,7015,7,,"Phòng rất đẹp, rộng rãi, sạch sẽ. Không gian ấm cúng và nhân viên cực kỳ nhiệt tình."
+14579,7509,6,,
+14436,8101,10,26/09/2023,"Sạch, nhân viên thân thiện. Nằm trong phố cổ, thuận tiện cho việc vui chơi. đầy đủ tiện nghi, rộng rãi. nhân viên thân thiện cực kỳ. Rất đáng để ghé lại lần sau!"
+14436,9114,9,,
+14436,8790,8,,
+14008,7509,9,05/12/2022,"Nhà mình nhận phòng khá sớm. 11 h30 đã đến khách sạn. Phòng mình book là Deluxe lại chưa có phòng. Đợi khoảng 10p chị quản lý thấy gia đình có trẻ nhỏ nên đã sắp xếp cho mình ở phòng Suite mà không phải thêm bất kỳ phí. 10 điểm cho sự tinh tế của khách sạn. Phòng thì rộng rãi. Ánh sáng tốt. Mình khá thích không gian ở đây. Bữa sáng free ăn cũng rất ngon miệng. Nhân viên đều nhẹ nhàng. Có điểm trừ ở đây là về phần nhà tắm vẫn còn tóc ở bồn tắm, và tường ẩm bị bong sơn. Nhưng với mình nó chỉ là 1 điểm trừ nhỏ xíu. Đáng để lần sau quay lại."
+14008,8959,8,,
+14008,6492,7,,
+14531,9934,9,18/10/2023,"Although the bedside table is quite dusty (seems not to have been cleaned), the staff is enthusiastic and the central location is easy to navigate."
+14531,8053,8,,
+14531,8012,9,,
+14116,8053,9,16/11/2023,Hơi ồn vì cách âm phòng. Nhân viên nhà bếp ồn quá.
+14116,8012,8,,
+14116,6108,9,,
+14478,8246,9,06/12/2023,Vị trí gần các điểm du lịch nổi tiếng. Phòng sạch sẽ. Có ăn sáng. Có chút không cách âm vì còn nghe tiếng nước xả.
+14478,9934,8,,
+14478,8053,7,,
+14593,6069,9,24/09/2023,Phòng rất sạch sẽ và tiện nghi. Ra Hà Nội mình lại ủng hộ
+14593,7355,7,,
+14593,7015,7,,
+14340,7503,8,01/04/2024,Great Hotel. Breakfast not the best but a good hotel and safe
+14340,8169,7,,
+14340,6997,6,,
+14466,9114,8,31/03/2024,"Big beds, room is clean, simple breakfast, value for money"
+14466,8790,8,,
+14466,7355,7,,
+14215,7509,8,12/12/2023,"Staff are armature, cant expect much from them. Almost seem careless. The hotel are very clean. No weird smell. Good ventilation, quiet. Good place to relax. The pool light off too early tho. If u wanna enjoin a good night light with a drink in the pool then its a no go. The way the pool set up is not good for a day swim. Overall subtract the pool. Great place, staff need more training then just hang around"
+14215,8959,8,,
+14215,6492,7,,
+14163,6377,6,04/05/2021,"The new and clean hotel. But the central air condition has been locked on 27 celsius. I can’t control the temperature, it made me so hot."
+14163,7503,8,,
+14163,8169,7,,
+14688,8897,10,15/09/2023,"Very good service, even the reception so polite in everything.. the best 4 stars hotel i ever stay ! Yayy !!! And give me free extend for 5 hours !!!"
+14688,6997,9,,
+14688,8057,8,,
+14040,9114,8,06/05/2023,"Ban đầu tôi đặt phòng giường đôi 1 người ngủ và có ghi chú là ưu tiên giường đôi lớn, nhưng khi nhận phòng thì phòng lại có 2 giường đơn. Phòng tối và bí. Tôi có gọi điện cho lễ tân và được trả lời là hết phòng đôi và đề xuất tôi upgrade phòng ( trả thêm phí ). Phòng mới rộng hơn nhưng chỉ có view nhưng phòng thiết kế không hợp lý. Ăn sáng là điểm cộng khi có view rất ổn"
+14040,8012,9,,
+14040,6108,9,,
+14055,6069,8,07/02/2024,Check in late around 10pm and because the porter wasn't around got to carry my 3 luggages up the stairs. (Make a slope so that luggage can trolley up) Upgraded my room however the toilet flush button was not functioning well. Overall still a comfortable stay.
+14055,8897,8,,
+14055,6311,7,,
+14568,7640,8,13/01/2024,"The staff was nice and the Hotel was clean, bed was comfy and the breakfast was exceptional. Kind of a weird smell in the hallway and room but not harsh enough to be a dealbreaker. Beautiful reception area."
+14568,6377,7,,
+14568,7503,7,,
+14547,6997,7,28/03/2023,"Khách sạn mới nên khá sạch sẽ , đồ ăn sáng nghèo nàn , nhân viên cần chuyên nghiệp hơn"
+14547,8057,8,,
+14547,9114,8,,
+14831,6311,10,29/07/2023,"Khách sạn sạch sẽ, yên tĩnh, nằm ở vị trí có nhiều quán ăn ngon (theo khẩu vị cá nhân) và nhiều điểm du lịch. Nhân viên dễ thương, nhiệt tình hỗ trợ."
+14831,8790,7,,
+14831,7355,5,,
+14972,7015,8,10/09/2023,"Khách sạn sạch sẽ, nhân viên nhiệt tình, địa điểm gần phố cổ tiện đi lại"
+14972,8057,9,,
+14972,9114,6,,
+14329,8790,8,01/07/2022,"Khách sạn sạch sẽ, vị trí đi lại thuận tiện, đáng giá tiền. Yên tĩnh, có thể đi bộ về phố cổ"
+14329,7355,8,,
+14329,7015,8,,
+14806,7509,7,04/12/2022,"Phòng sạch sẽ, vị trí thuận thiện, nhân viên thân thiện, phù hợp với giá tiền"
+14806,8959,7,,
+14806,9114,8,,
+14782,8160,8,06/01/2024,Good
+14782,6587,8,,
+14782,8246,9,,
+14530,7640,10,31/05/2023,"Khách sạn ở vị trí tốt, ngay gần Trung tâm hội nghị quốc gia và khu vui chơi ăn uống. Ks sạch sẽ, view đẹp, tiện nghi, nhân viên lễ tân và nhà hàng nhiệt tình, friendly và hiếu khách. Khi cần hỗ trợ thêm gì sẽ được giải quyết nhanh chóng và mình khá hài lòng vì điều này. Sẽ quay trở lại khi tới Hà Nội."
+14530,8246,8,,
+14530,9934,5,,
+14349,9374,10,01/01/2024,"Khách sạn sang trọng và sạch sẽ. Các bạn nhân viên rất nice và nhiệt tình. Giường êm và phòng ấm áp, đầy đủ tiện nghi. Giá phòng khá hời so với trải nghiệm mình nhận được"
+14349,8160,8,,
+14349,6587,8,,
+14135,6492,8,01/04/2024,Hotel staff was amazing and went above and beyond . Room was decent only issue is the location as it’s too far from the old quarter which is central Hanoi.
+14135,6328,7,,
+14135,9374,8,,
+14725,8057,8,07/12/2023,Came across this hotel decided to give it a shot with my friend. Really friendly staffs with good clean rooms. The only setback is probably the worn out carpets along the room corridors. Good view from the breakfast area which is located at the roof of the building. Definitely will stay here again if I ever travel to Hanoi again. 4.4/5 !
+14725,9114,8,,
+14725,8790,7,,
+14041,7503,9,25/10/2023,"Pros: Clean hotel, good breakfast (though almost the same food served every day) Cons: no ramp for PWDs, senior citizens, and people with big luggages at the front door. But hotel staff was kind enough to help us"
+14041,8169,8,,
+14041,6997,7,,
+14761,6377,10,19/03/2024,Cảm ơn các bạn đã mang lại trải nghiệm tuyệt vời.
+14761,6311,8,,
+14761,7640,8,,
+14846,6377,10,10/03/2024,"Ks rất mới và đẹp, nv lịch sự dễ thương"
+14846,9114,7,,
+14846,8790,8,,
+14848,6997,9,05/02/2024,"Khách sạn mới, sạch sẽ, rất trung tâm."
+14848,8057,8,,
+14848,9114,9,,
+14296,6377,8,04/03/2024,Everything is nice at reasonable price.
+14296,7503,8,,
+14296,8169,9,,
+14245,7640,8,04/04/2024,It's in the aisle with some stands who chat in the morning. The soundproofing is not so good so it's a bit noisy.
+14245,6377,8,,
+14245,7503,9,,
+14781,7503,10,29/03/2024,"Pros: - quite near Hanoi Old Town and center of the city - super cozy and quite - helpful & friendly staff - newly built & convenient room - affordable price Cons: - the street is blocking so cannot enter by car, you'll have to walk around 2-3 mins thorough the pavement & alley to this hotel. Somehow it is inconvenient but good for health lol :))"
+14781,6024,7,,
+14781,8101,7,,
+14935,9114,10,04/02/2024,đc
+14935,8790,7,,
+14935,7355,9,,
+14428,8057,9,07/01/2024,The room is big and comfortable. Got to the hotel too early around 11:30am but the staff still kindly let me checkin despite the rules stating that checkin should be at 2pm. Staff was extremely polite and would help if there was antthing you needed. Would choose this hotel again if I am coming another time.
+14428,9114,9,,
+14686,8790,8,29/03/2024,Chỗ nghỉ nên bổ sung đủ đồ dùng sau mỗi lần dọn phòng. Mọi thứ khác đều rất OK
+14686,6328,8,,
+14686,9374,9,,
+14366,8160,9,30/03/2024,It was ok but the road is not accessible
+14366,6997,9,,
+14692,8169,10,18/09/2023,"Khách sạn sạch sẽ, gần khu phố cổ. Nhân viên thân thiện nhiệt tình với khách hàng."
+14692,7015,8,,
+14673,7509,10,24/02/2024,"Nhân viên phục vụ nhiệt tình, vui vẻ, vị trí phố cổ thuận lợi di chuyển"
+14673,8959,7,,
+14855,6492,10,02/02/2024,"Đầy đủ tiện nghi, ok"
+14855,6328,8,,
+14855,9374,7,,
+14425,8160,8,02/01/2024,Nằn khu vực phố cổ thuận tiện cho viẹc di chuyển
+14425,6587,9,,
+14326,8246,8,28/03/2024,"Best Services, Lola & Jenny is very helpful. Location is in city centre and room is neat and clean."
+14326,7015,8,,
+14326,7509,9,,
+14928,6997,10,16/10/2023,Mình có trải nghiệm rất tốt tại khách sạn
+14928,6587,7,,
+14937,8246,10,23/03/2024,"Khách sạn nằm ngay khu phố cổ, cạnh bờ hồ.
+Phòng ốc sạch sẽ và rất đẹp, nhân viên rất thân thiện và nhiệt tình."
+14937,9934,8,,
+14937,8053,7,,
+14514,8012,10,01/03/2024,"Thiết kế đẹp, chăm chút từng góc cạnh"
+14514,6108,8,,
+14125,6311,9,14/11/2023,Không gian cổ điển. Phòng ốc sạch sẽ. Tiếp đón chu đáo.
+14125,7640,9,,
+14293,6997,8,05/04/2024,Amazing staff and comfortable rooms.
+14293,8057,7,,
+14099,8057,9,30/09/2022,"phòng ốc sạch sẽ, nhân viên thân thiện nhiệt tình, vị trí ngay trung tâm, thuận tiện đi lại, giá phòng cũng hợp lý"
+14099,6024,6,,
+14111,8101,10,24/01/2024,"Thus is my first day in Hanoi, staffs are very friendly and nice. Highly recommendation."
+14111,6069,5,,
+14265,8959,8,04/04/2024,
+14265,6492,8,,
+14000,6587,10,01/04/2024,In Hanoi I would stay there again.
+14000,8246,9,,
+14000,9934,7,,
+14967,9934,10,28/03/2024,Highly recommended!! Staff is very helpful
+14967,8053,8,,
+14169,9114,9,04/03/2024,"vị trí tốt, nhân viên nhiệt tình"
+14169,8101,8,,
+14169,6069,9,,
+14194,8897,8,20/03/2024,Khách sạn mới nên mọi điều đều tốt 
+14194,8959,10,,
+14450,6492,8,24/03/2024,
+14450,6328,7,,
+14450,6997,6,,
+14830,8057,10,05/03/2024,
+14830,9114,5,,
+14830,7503,5,,
+14204,8169,10,23/03/2024,Xuất sắc
+14204,6997,4,,
+14948,8790,9,04/01/2024,"Nhân viên nhanh nhẹn, chuyên nghiệp. Vị trí thuận tiện, gối êm ngủ ngon"
+14948,9114,8,,
+14375,8790,10,20/05/2023,"Vị trí trung tâm, thuận tiện đi lại, nhân viên chuyên nghiệp."
+14375,7355,9,,
+14662,8053,9,26/08/2023,Nhân viên PV tốt
+14662,8012,8,,
+14662,6108,9,,
+14306,7509,8,02/04/2024,
+14306,8959,9,,
+14494,6492,8,02/04/2024,
+14494,8101,9,,
+14494,6069,9,,
+14531,7355,10,01/05/2021,Rất thuận tiện đi lại
+14531,9114,8,,
+14531,8790,8,,
+14501,7355,8,02/04/2024,
+14501,8101,8,,
+14501,6069,7,,
+14221,8897,7,01/04/2024,Great value for money in Hanoi!
+14221,8246,8,,
+14221,9934,6,,
+14739,8053,5,31/03/2024,Great location and staff but not a good room.
+14739,9114,9,,
+14739,8790,7,,
+14658,7355,10,28/03/2024,
+14658,7640,8,,
+14658,6377,7,,
+14593,7015,9,14/06/2023,"Phòng rất đẹp, rộng rãi, sạch sẽ. Không gian ấm cúng và nhân viên cực kỳ nhiệt tình."
+14593,6311,8,,
+14593,7640,7,,
+14893,6377,9,25/06/2022,Thuận tiện cho đi công tác
+14893,6024,7,,
+14893,8101,8,,
+14126,6069,10,17/03/2024,We loved our stay !
+14126,6587,8,,
+14126,8246,7,,
+14921,9934,10,07/12/2023,"Kindness, standard and profesionalism"
+14921,6377,7,,
+14921,7503,8,,
+14735,8169,10,27/11/2023,Lovely room which make u forget all ur outings…
+14735,8160,9,,
+14695,7509,10,03/01/2023,Hà Nội lạnh nhưng phòng nghỉ rất ấm áp
+14695,6311,8,,
+14883,7640,9,15/10/2023,"Khách sạn ở ngay trung tâm, gần phố cổ tiện đi lại.
+Nhân viên phục vụ lịch sự, buffee sáng ngon, đa dạng"
+14883,6377,7,,
+14883,8169,8,,
+14433,6997,10,15/10/2023,"sạch sẽ, yên tĩnh"
+14433,8057,9,,
+14643,7015,8,27/07/2023,"Nhìn chung là ổn, nhân viên nhiệt tình chu đáo. Có thể sẽ tiếp tục quay lại lần sau. Nhưng mình sẽ book phòng diện tích"
+14643,7509,7,,
+14643,8959,6,,
+14894,6377,8,24/07/2023,"Nhân viên rất tuyệt vời, từ nhân viên phục vụ bữa sáng cho tới nhân viên lễ tân. Mình rất hài lòng."
+14894,7503,8,,
+14803,8959,10,24/09/2022,"không gian dễ thương, phục vụ chu đáo"
+14803,9374,5,,
+14993,8160,8,26/10/2023,"Địa điểm tuyệt vời,phòng sạch sẽ.
+Nhân viên nhiệt tình,lịch sự."
+14993,6587,9,,
+14993,6587,8,,
+14797,8246,9,13/10/2023,Nhân viên thân thiện. Địa điểm thuận lợi
+14797,9934,9,,
+14797,6024,8,,
+14766,8101,10,02/09/2023,
+14766,6069,9,,
+14766,8169,8,,
+14164,6997,10,,Phòng phong cách hiện đại sạch sẽ trông không hề chật bí mặc dù chỉ 20m2
+14164,8057,8,,
+14623,6492,10,04/04/2024,Hài lòng
+14623,8053,7,,
+14145,8012,10,24/03/2024,"Khách sạn sạch sẽ, nhân viên nhiệt tình, đi lại thuận tiện"
+14145,6108,7,,
+14145,7015,8,,
+14188,7509,8,17/02/2024,"Khách sạn view đẹp, thuận tiện di chuyển"
+14188,8959,8,,
+14777,9934,8,20/01/2024,"The first and second time I came here, I felt that the staff and manager were very cute and enthusiastic, but when I returned here for the third time, I felt not as satisfied as the first and second time I came. , because when I returned here for the third time, I saw a young man at the reception checking check-in and check-out documents. I felt unsatisfied with that person's attitude and service"
+14777,8053,9,,
+14086,8012,8,22/03/2024,Good
+14086,9934,8,,
+14252,6328,9,18/02/2024,Khách sạn ở oke phết các bạn ạ
+14252,6024,8,,
+14446,8101,8,25/04/2023,Place has good location and everything is near it. I will always prefer to stay here while in Hanoi 🥰❤️
+14446,6069,7,,
+14375,8897,9,03/04/2024,Only spent one night. Hotel is nicely located and was a short walk to lake where many of the streets were closed to traffic (Friday). Some confusion booking car to airport with front desk but worked it out in the end.
+14100,6311,8,17/03/2024,"A little out of te way, but not too far of a walk. Staff exceptional, Mr Giap made sure everything us better than i expected."
+14956,7640,8,24/03/2024,At a good price I would stay here again.
+14477,7640,10,18/10/2023,"Phòng nghỉ được làm sạch mỗi ngày , nhân viên vui vẻ nhiệt tình … nếu có đi Hà Nội sẽ tiếp tục ở đây"
+14621,6377,8,01/04/2024,"Nhân viên nhiệt tình, phòng khá thoáng và sạch sẽ, tuy nhiên phòng vệ sinh bị mùi"
+14572,7503,9,29/03/2024,Okie nha
+14369,6024,8,24/03/2024,"Một khách sạn tuyệt vời ở khu vực Phố Cổ, địa điểm thuận tiện đi lại và nhân viên rất thân thiện."
+14744,8101,7,02/04/2024,"All staff are friendly and very helpful. Hotel building is old, limited facilities, but the room is clean. Towel etc is changed every day."
+14687,8160,10,26/03/2024,"Khách sạn dạng căn hộ tuyệt vời! Giá cả quá hợp lý, di chuyển đi các danh lam thắng cảnh ở Hà Nội, Phố cổ rất thuận lợi! 10 điểm tuyệt đối cho dịch vụ, tiện ích và tầm giá ❤️"
+14820,9934,8,20/03/2024,Phù hợp với mọi người
+14120,8053,9,17/02/2024,Với mức giá như vậy thì đây là địa diểm đáng để lựa chọn cho kỳ nghỉ ngắn ngày.
+14484,8012,8,03/01/2024,"Spotless clean,spacious,very reasonably priced, the only negative is you need a taxi/grab each time you go to the old quarters.Otherwise all good."
+14033,6108,9,31/03/2024,"Pillow is huge and soft, bed is as properly soft, I had a very sweet sleep."
+14414,6587,10,04/02/2024,"Mình ghé qua HN ngắn hạn nên book phòng dorm rất ok, đa số là các bạn Tây ở cùng. Cực kì sạch sẽ, tủ cũng dùng khoá từ, mỗi giường đều có ổ sạc, đèn và rèm riêng. Tuyệt vời ạ 😘"
+14028,8959,9,27/02/2024,Mike and the crew at the Little Charm are pros. This is my first-choice place to stay in Hanoi.
+14091,6492,9,15/02/2024,"Nice location, nice place to stay"
+14272,6328,8,27/01/2024,"Xúng đáng với mức giá, vì là dorm nên tiện nghi như vậy là hợp lý. Tuy nhiên các bạn Tây ở nhiều, nên cần thông gió tốt hơn để giảm mùi bên trong ks"
+14954,8959,8,03/04/2024,The bed itself is clean but sometimes the bathroom is needed to be more clean. Perfect location at the center of Hanoi!
+14045,8246,10,17/04/2023,Phòng đẹp nhân viên niềm nở
+14034,6069,10,05/04/2024,Staff very helpful
+14173,8897,8,29/03/2024,okay hotel - expect noise from street and building site
+14832,6311,9,27/03/2024,
+14185,6024,8,22/03/2024,
+14769,9934,10,05/05/2022,"Sạch. Tiện, gần hồ và quán ăn"
+14777,8101,8,31/03/2024,Very friendly staff but not all speak english. Google translator helped. Manager knowledgeful saved situation. My stay was pleasant and comfy.
+14804,6069,7,30/03/2024,
+14318,8897,9,29/03/2024,Great location. Very comfortable beds and great Aircon . Very friendly staff. Good shower.
+14811,8012,8,25/03/2024,
+14230,8053,8,02/04/2024,Decent hotel for budget price
+14957,8790,8,01/04/2024,
+14171,7355,9,26/03/2024,Excellent
+14264,7015,8,18/03/2024,"Comfortable and clean, with friendly and helpful staff."
+14488,7509,10,15/03/2024,
+14490,8012,9,04/04/2024,
+14620,6328,8,31/03/2024,
+14861,9374,10,24/03/2024,Good Location In The Old Quarter
+14214,8160,10,22/03/2024,Our best stay in Grand Cititel Hanoi Hotel
+14610,6997,10,21/03/2024,"Good value for money, recommended"
+14360,6108,7,18/02/2024,Vị trí tốt cho khách cần chỗ đỗ ô tô
+14758,8959,8,03/02/2024,"P sạch sẽ, tuy nhiên hơi bất tiện vì cầu thang máy lệch tầng. Nhân viên rất thân thiệt"
+14296,6492,9,02/01/2024,
+14655,6328,8,16/03/2024,"Well managed hotel. Decent rooms with attached bathrooms. Accessible locations around, and great host."
+14350,8897,8,14/03/2024,All good thanks.
